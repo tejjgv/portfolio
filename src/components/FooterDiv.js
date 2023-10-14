@@ -28,7 +28,7 @@ export function FooterDiv() {
     <div className="footer-div">
       <FooterLinks />
       <div className="footer-copyright">
-        <em>Copyright Deservers To Ajay Ganesh ©️</em>
+        <em>Copyright Deservers To Tejeswar Reddy ©️</em>
       </div>
     </div>
   );
