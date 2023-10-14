@@ -1,0 +1,91 @@
+.accomplishments-div {
+  margin: 20px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  position: relative;
+  padding: 30px;
+}
+
+.accomplishments-div-head {
+  color: black;
+  text-align: center;
+  font-size: 44px;
+  position: relative;
+  padding-bottom: 2px;
+  border-bottom-style: groove;
+  border-bottom-width: 8.1px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.accomplishment-point-div {
+  background-color: aquamarine;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 15px;
+  transition: transform 0.5s;
+}
+
+.accomplishment-point-div img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  position: relative;
+}
+
+.accomplishment-point-div:hover {
+  transform: scale(1.02);
+}
+
+.accomplishment-point-name {
+  font-size: 5vh;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.accomplishment-point-emoji {
+  font-size: 5vh;
+  padding-right: 5px;
+}
+
+.accomplishment-point-name {
+  text-decoration: underline;
+}
+.accomplishment-content-text {
+  margin-left: 10vh;
+  margin-top: 15px;
+  font-size: 3vh;
+  margin-bottom: 10px;
+}
+
+.accomplishment-point-link {
+  cursor: pointer;
+}
+
+.accompilshment-content-img {
+  padding: 2px;
+}
+@media (max-width: 992px) {
+  @media (max-width: 992px) {
+    .accomplishments-div {
+      margin: 1vw;
+    }
+
+    .accomplishments-div-head {
+      font-size: 22px;
+    }
+
+    .accomplishment-point-name,
+    .accomplishment-point-emoji {
+      font-size: 3vh;
+    }
+
+    .accomplishment-content-text {
+      margin-left: 5vh;
+      font-size: 2vh;
+      margin-bottom: 3vw;
+    }
+  }
+}

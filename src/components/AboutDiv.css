@@ -1,0 +1,88 @@
+.second-div {
+  margin: 30px;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  position: relative;
+  padding: 30px;
+}
+
+.second-div::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  right: 0;
+  border-top: 10px solid rgb(255, 247, 0);
+  border-right: 10px solid rgb(255, 13, 13);
+  width: 50px;
+  height: 50px;
+}
+
+.second-div::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  border-bottom: 10px solid rgb(255, 13, 13);
+  border-left: 10px solid rgb(255, 247, 0);
+  width: 50px;
+  height: 50px;
+}
+
+.about-head {
+  color: black;
+  text-align: center;
+  font-size: 44px;
+  position: relative;
+  padding-bottom: 2px;
+  border-bottom-style: dashed;
+  border-bottom-width: 3.1px;
+  display: inline-block;
+  font-weight: 600;
+}
+
+.about-me-p {
+  margin-top: 15px;
+}
+
+.current-year {
+  color: gray;
+}
+
+.about-me-1,
+.about-me-2,
+.about-me-3 {
+  line-height: 40px;
+  font-size: 20px;
+}
+
+.my-name {
+  color: rgb(75, 255, 84);
+}
+
+.about-me-link-1 {
+  padding: 0px 5px;
+  color: rgb(0, 255, 98);
+  display: inline-block;
+}
+
+.about-me-link-1:hover {
+  display: inline-block;
+  -webkit-text-fill-color: burlywood !important;
+  background: transparent !important;
+}
+
+@media (max-width: 768px) {
+  .about-head {
+    font-size: 7.9vw;
+  }
+  .about-me-1,
+  .about-me-2,
+  .about-me-3 {
+    line-height: 40px;
+    font-size: 4vw;
+  }
+  .second-div {
+    margin: 8vw;
+    padding: 6vw;
+  }
+}
