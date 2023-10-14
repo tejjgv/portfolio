@@ -17,7 +17,7 @@ function AboutMe() {
   return (
     <div className="about-me-p">
       <p className="about-me-1">
-        Hi, I’m <span className="my-name">Ajay Ganesh</span>, a web development
+        Hi, I’m <span className="my-name">Tejeswar Reddy</span>, a web development
         fanatic and Data Science Student. I am student at Vellore Institute of
         Technology{" "}
         <span className="current-year">
