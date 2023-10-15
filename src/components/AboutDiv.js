@@ -18,7 +18,7 @@ function AboutMe() {
     <div className="about-me-p">
       <p className="about-me-1">
         Hi, I’m <span className="my-name">Tejeswar Reddy</span>, a web development
-        fanatic and Data Science Student. I am student at Vellore Institute of
+        fanatic and Computer Science Student. I am student at Vellore Institute of
         Technology{" "}
         <span className="current-year">
           (Currently: 3rd Year, Graduation Period: 2021 - 2025)
