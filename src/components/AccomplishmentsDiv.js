@@ -22,7 +22,7 @@ let accomplishmentsContent = [
     emoji: "🎲",
     name: "Housie Game",
     keyPoints: "💻 Made using JavaScript, HTML, CSS.",
-    link: "hhttps://tejjgv.github.io/game-2/",
+    link: "https://tejjgv.github.io/game-2/",
     linkText: "Visit Site",
     img: HousieGameImg,
     external: true,
