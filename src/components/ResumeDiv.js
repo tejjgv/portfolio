@@ -5,7 +5,7 @@ import JsLogo from "../js-icon.svg";
 
 const resumeContent = {
   smallIntro:
-    "🗣️ This is Chitturi Ganesh Sri Naga Venkata Ajay. I am From Gudivada, Andhra Pradesh, India. I made this website mostly using react. This is short information, for more information reach AboutDiv",
+    "🗣️ This is Tejeswar Reddy GV, Andhra Pradesh, India. I made this website mostly using react. This is short information, for more information reach AboutDiv",
   education: [
     {
       name: "Vellore Institute Of Technology",
@@ -19,9 +19,9 @@ const resumeContent = {
     {
       name: "Narayana Junior College",
       fieldOfStudy: "Intermediate",
-      city: "Vijayawada",
+      city: "Madhapur",
       country: "India",
-      keyPoints: ["Marks: 968/1000"],
+      keyPoints: ["Marks: 970/1000"],
       yearOfJoin: "2019",
       endYear: "2021",
     },
@@ -30,7 +30,7 @@ const resumeContent = {
       fieldOfStudy: "School",
       city: "Gudivada",
       country: "India",
-      keyPoints: ["GPA: 9.8"],
+      keyPoints: ["GPA: 10"],
       endYear: "2019",
     },
   ],
