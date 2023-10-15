@@ -12,7 +12,7 @@ const resumeContent = {
       fieldOfStudy: "Bachelor of Technology",
       city: "Vellore",
       country: "India",
-      keyPoints: ["Pursuing Course CSE Data Science", "CGPA: 8.7"],
+      keyPoints: ["Pursuing Course CSE Data Science", "CGPA: 8.94"],
       yearOfJoin: "2021",
       endYear: "2025",
     },
