@@ -17,7 +17,7 @@ export function NavBar() {
   return (
     <Navbar expand="md" className="nav-div">
       <Navbar.Brand className="logo" onClick={scrollToTop}>
-        AG
+        TEJJ
       </Navbar.Brand>
       <Navbar.Toggle
         className="me-4"
