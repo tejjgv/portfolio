@@ -9,18 +9,18 @@ import {
 import "./FooterDiv.css";
 
 const icons = {
-  Github: [FaGithub, "Github", "https://github.com/ajayganeshch"],
+  Github: [FaGithub, "Github", "https://github.com/tejjgv"],
   Instagram: [
     FaInstagram,
     "Instagram",
-    "https://www.instagram.com/ajay__ganesh/",
+    "https://www.instagram.com/tejeswarreddygv/",
   ],
   LinkedinIn: [
     FaLinkedinIn,
     "Linkedin",
-    "https://www.linkedin.com/in/ajayganeshch/",
+    "https://www.linkedin.com/",
   ],
-  Email: [FaEnvelope, "Email", "mailto:ajayganesh789@gmail.com"],
+  Email: [FaEnvelope, "Email", "mailto:tejeswargv.123@gmail.com"],
 };
 
 export function FooterDiv() {
