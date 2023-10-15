@@ -33,16 +33,8 @@ function AboutMe() {
         creativity and passion.
       </p>
       <p className="about-me-3">
-        🌟 I had completed more than 150+ problems in
-        <a
-          className="about-me-link-1"
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://leetcode.com/ajayganeshch/"
-        >
-          Leetcode
-        </a>
-        using JavaScript and have streak for 84 days.
+        🌟 I had completed more than 150+ problems in leet code 
+          using JavaScript and have streak for 84 days.
       </p>
     </div>
   );
