@@ -67,7 +67,7 @@ function ShowForm({ isOpen, onIsForm }) {
     >
       <iframe
         title="Contact Me Form"
-        src="https://docs.google.com/forms/d/e/1FAIpQLScQHfZ1CE0p1CpdKukaf4De5I1OuzJR65SkEbIoHHgix3xzjA/viewform?embedded=true"
+        src="https://docs.google.com/forms/"
         style={{
           width: "100%",
           height: "1543px",
