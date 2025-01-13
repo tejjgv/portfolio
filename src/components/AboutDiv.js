@@ -21,10 +21,10 @@ function AboutMe() {
         fanatic and Computer Science Student. I am student at Vellore Institute of
         Technology{" "}
         <span className="current-year">
-          (Currently: 3rd Year, Graduation Period: 2021 - 2025)
+          (Currently: 4th
+           Year, Graduation Period: 2021 - 2025)
         </span>
-        , and I love to create awesome websites. I know JavaScript well and
-        intermediate upto Reactjs and I’m learning Node.js, Express.js and
+        , and I love to create awesome websites. I know JavaScript well and upto Reactjs and I am excelled in Node.js, Express.js and
         MongoDB to make websites that rock and responsive.
       </p>
       <p className="about-me-2">
@@ -33,8 +33,8 @@ function AboutMe() {
         creativity and passion.
       </p>
       <p className="about-me-3">
-        🌟 I had completed more than 150+ problems in leet code 
-          using JavaScript and have streak for 84 days.
+        🌟 I had completed more than 400+ problems in leet code 
+          using Java. javaScript and have streak for 84 days.
       </p>
     </div>
   );
